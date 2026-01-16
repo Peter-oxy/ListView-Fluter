@@ -221,7 +221,7 @@ class StaticGridBox extends StatelessWidget {
             ),
             Positioned(
               top: 20,
-              left: 15,
+              left: 15, 
               right: 15,
               child: Text(
                 title,
